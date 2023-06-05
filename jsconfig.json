@@ -1,7 +1,9 @@
+//@* = take it from root route and take everything
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@*": ["./*"]
     }
   }
 }
+
